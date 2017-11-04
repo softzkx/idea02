@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my127hrtest_parent/my127hrtest_common/my127hrtest_common.iml" filepath="$PROJECT_DIR$/my127hrtest_parent/my127hrtest_common/my127hrtest_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my127hrtest_parent/my127hrtest_dao/my127hrtest_dao.iml" filepath="$PROJECT_DIR$/my127hrtest_parent/my127hrtest_dao/my127hrtest_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my127hrtest_parent/my127hrtest_entity/my127hrtest_entity.iml" filepath="$PROJECT_DIR$/my127hrtest_parent/my127hrtest_entity/my127hrtest_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my127hrtest_parent/my127hrtest_parent.iml" filepath="$PROJECT_DIR$/my127hrtest_parent/my127hrtest_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my127hrtest_parent/my127hrtest_service/my127hrtest_service.iml" filepath="$PROJECT_DIR$/my127hrtest_parent/my127hrtest_service/my127hrtest_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my127hrtest_parent/my127hrtest_web/my127hrtest_web.iml" filepath="$PROJECT_DIR$/my127hrtest_parent/my127hrtest_web/my127hrtest_web.iml" />
+    </modules>
+  </component>
+</project>
